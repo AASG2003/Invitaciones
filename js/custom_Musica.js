@@ -7,13 +7,13 @@ boton.addEventListener("click", function(){
 	if (!sound) {
 		console.log("Prendido");
 		v.play();
-		reproductor.classList.replace("fa-volume-up","fa-volume-off");
+		reproductor.classList.replace("fa-volume-off","fa-volume-up");
 		sound = true;
     v.volume ="0.4"; 
 		} else {
 			console.log("Apagado");
 			v.pause();
-			reproductor.classList.replace("fa-volume-off","fa-volume-up");
+			reproductor.classList.replace("fa-volume-up","fa-volume-off");
 			sound = false;
 			} 
     });

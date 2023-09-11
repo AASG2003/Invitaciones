@@ -46,8 +46,8 @@
   }
   
   .selloAnimation {
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     animation: crescendo 1.4s alternate infinite ease-in;
   }
   
