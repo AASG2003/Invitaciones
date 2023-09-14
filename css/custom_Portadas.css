@@ -81,13 +81,13 @@
 
 /* PORTADA */
 .bgPortada {
-	background-image: url("../images/portada.jpg");
+	background-image: url("../images/foto_portada2.jfif");
 	background-position: 50%, 50%;
 }
 
 @media only screen and (max-width: 600px) {
 	.bgPortada {
-		background-image: url("../images/portada.jpg");
+		background-image: url("../images/foto_portada2.jfif");
 	}
 }
 
@@ -209,13 +209,13 @@
 /* FINAL */
   
 .bgFinal {
-	background-image: url("../images/final_x1.jpg");
+	background-image: url("../images/anillos.jfif");
 	background-position: 70% 50%;
 }
 
 @media only screen and (max-width: 600px) {
 	.bgFinal {
-		background-image: url("../images/final_x1.jpg");
+		background-image: url("../images/anillos.jfif");
 	}
 }
 
